@@ -1,1 +1,1 @@
-git is very cool. hello.
+I like git.
